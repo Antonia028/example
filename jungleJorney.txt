@@ -4,7 +4,7 @@ We are going to describe the elements to pack for a jorney to the jungle.
 
 List of elements we need:
 1. A tent
-2. An MP3
+2. An MP3 Player
 3. A lighter
 4. Lantern
 5. Food
