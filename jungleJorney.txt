@@ -7,3 +7,4 @@ List of elements we need:
 2. An MP3
 3. A lighter
 4. Lantern
+5. Food
