@@ -9,3 +9,4 @@ List of elements we need:
 4. Lantern
 5. Food
 6. Weapons
+7. Blanket
